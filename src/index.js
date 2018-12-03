@@ -5,7 +5,7 @@ import './index.css';
 //import Lottery from './lotteryGame';
 import * as serviceWorker from './serviceWorker';
 import IndecisionApp from './compIndecision';
-import Counter from './counterApp';
+//import Counter from './counterApp';
 
 ReactDOM.render(<IndecisionApp />, document.getElementById('root'));
 
